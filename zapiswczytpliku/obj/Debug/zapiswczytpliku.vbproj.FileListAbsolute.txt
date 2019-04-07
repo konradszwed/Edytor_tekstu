@@ -1,0 +1,10 @@
+c:\users\202484\documents\visual studio 2012\Projects\zapiswczytpliku\zapiswczytpliku\bin\Debug\zapiswczytpliku.exe.config
+c:\users\202484\documents\visual studio 2012\Projects\zapiswczytpliku\zapiswczytpliku\bin\Debug\zapiswczytpliku.exe
+c:\users\202484\documents\visual studio 2012\Projects\zapiswczytpliku\zapiswczytpliku\bin\Debug\zapiswczytpliku.pdb
+c:\users\202484\documents\visual studio 2012\Projects\zapiswczytpliku\zapiswczytpliku\bin\Debug\zapiswczytpliku.xml
+c:\users\202484\documents\visual studio 2012\Projects\zapiswczytpliku\zapiswczytpliku\obj\Debug\zapiswczytpliku.Form1.resources
+c:\users\202484\documents\visual studio 2012\Projects\zapiswczytpliku\zapiswczytpliku\obj\Debug\zapiswczytpliku.Resources.resources
+c:\users\202484\documents\visual studio 2012\Projects\zapiswczytpliku\zapiswczytpliku\obj\Debug\zapiswczytpliku.vbproj.GenerateResource.Cache
+c:\users\202484\documents\visual studio 2012\Projects\zapiswczytpliku\zapiswczytpliku\obj\Debug\zapiswczytpliku.exe
+c:\users\202484\documents\visual studio 2012\Projects\zapiswczytpliku\zapiswczytpliku\obj\Debug\zapiswczytpliku.xml
+c:\users\202484\documents\visual studio 2012\Projects\zapiswczytpliku\zapiswczytpliku\obj\Debug\zapiswczytpliku.pdb
